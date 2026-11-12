@@ -57,13 +57,6 @@ Hoje toco meus próprios produtos e desenvolvo sistemas sob medida para empresas
   <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff" alt="Vercel">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadingarcia/nadingarcia/output/github-snake-dark.svg">
-    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/nadingarcia/nadingarcia/output/github-snake.svg">
-  </picture>
-</p>
-
 ### Contato
 
 Tem um projeto em mente? Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/nadin-garcia-97b41a195/) ou pelo e-mail **nadin.fg94@gmail.com**.
